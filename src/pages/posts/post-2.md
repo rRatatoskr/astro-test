@@ -6,7 +6,7 @@ description: "時間を忘れて没頭してしまうのは一体なぜ？"
 image:
     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/War_flag_of_the_Imperial_Japanese_Army.svg/2560px-War_flag_of_the_Imperial_Japanese_Army.svg.png"
     alt: "旭日旗。"
-pubDate: 2022-07-141
+pubDate: 2022-07-14
 tags: ["astro", "公開学習", "後退", "コミュニティ"]
 ---
 ## 達成したこと
